@@ -1,0 +1,3 @@
+include 'ParkSubeen:test'
+findProject(':ParkSubeen:test')?.name = 'test'
+
